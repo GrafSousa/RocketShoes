@@ -5,7 +5,7 @@ import { Provider } from 'react-redux';
 import GlobalStyle from './styles/global';
 import { Routes } from './routes';
 
-import { Header } from './components/Header/index';
+import Header from './components/Header/index';
 
 import { store } from './store/index';
 
